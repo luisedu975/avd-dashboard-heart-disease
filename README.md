@@ -2,7 +2,7 @@
 
 Aplicação em Streamlit com dois dashboards, construída a partir da minha EDA do dataset Heart Disease (UCI id=45, Cleveland).
 
-🔗 **App publicado:** https://SEU-APP.streamlit.app
+🔗 **App publicado:** https://avd-dashboard-heart-disease-3bebkwns7fjsuhpkc4jdef.streamlit.app/
 
 ## Dashboards
 - **Laboratório:** mapa de calor de correlação e histogramas por variável quantitativa, com filtros de variáveis, idade e colesterol no painel lateral.
